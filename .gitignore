@@ -1,0 +1,15 @@
+# secrets
+.env
+.tiktok_token.json
+.pkce_verifier
+
+# media (bring your own)
+backgraund/**/*.mp4
+songs/*
+!songs/.gitkeep
+output/
+
+# misc
+.DS_Store
+__pycache__/
+*.pyc
